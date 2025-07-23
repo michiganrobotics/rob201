@@ -30,34 +30,34 @@ This course recognizes that modern engineering requires both mathematical unders
 ### Course Schedule
 The following schedule shows lectures, assignments, and due dates:
 
-| Week | Lecture | Topic | Assignments Released | Assignments Due |
-|------|---------|-------|---------------------|-----------------|
-| 1 | 01 | [Pre-calculus: Notation, Functions, and Various Algebraic Facts](Lectures%20Notes/2025_01_08_Lecture01.pdf) | Quiz 01 | |
-| 1 | 02 | [Calculus Foundations: Proofs, Finite Sums, Limits](Lectures%20Notes/2025_01_13_Lecture02.pdf) | HW01 (Written & Julia) | |
-| 2 | 03 | [Definite Integration as Signed Area Under a Curve](Lectures%20Notes/2025_01_15_Lecture03.pdf) | HW02 (Written & Julia) | HW01 (Written & Julia) |
-| 3 | 04 | [Properties of Functions: Limits and Continuity](Lectures%20Notes/2025_01_22_Lecture04.pdf) | Quiz 02 | |
-| 3 | 05 | [Differentiation](Lectures%20Notes/2025_01_27_Lecture05.pdf) | HW03 (Written & Julia), Project 1 | HW02 (Written & Julia), Quiz 01 |
-| 4 | 06 | [Engineering Applications of the Derivative](Lectures%20Notes/2025_01_29_Lecture06.pdf) | | Quiz 02 |
-| 4 | 07 | [Antiderivatives and Fundamental Theorems](Lectures%20Notes/2025_02_03_Lecture07.pdf) | HW04 (Written & Julia) | HW03 (Written & Julia) |
-| 5 | 08 | [Improper Integrals](Lectures%20Notes/2025_02_05_Lecture08.pdf) | | |
-| 5 | 09 | [Ordinary Differential Equations I](Lectures%20Notes/2025_02_10_Lecture09.pdf) | | **Project 1 DUE** |
-| 6 | 10 | [Ordinary Differential Equations II](Lectures%20Notes/2025_02_12_Lecture10.pdf) | Quiz 03 | |
-| 6 | 11 | [Linear Systems of ODEs](Lectures%20Notes/2025_02_17_Lecture11.pdf) | HW05 (Written & Julia) | HW04 (Written & Julia) |
-| 7 | 12 | [Matrix Exponentials](Lectures%20Notes/2025_02_19_Lecture12.pdf) | | Quiz 03 |
-| 7 | 13 | [Stability Analysis](Lectures%20Notes/2025_02_24_Lecture13.pdf) | HW06 (Written & Julia) | HW05 (Written & Julia) |
-| 8 | 14 | [Laplace Transforms I](Lectures%20Notes/2025_02_26_Lecture14.pdf) | Project 2 | |
-| 9 | 15 | [Laplace Transforms II](Lectures%20Notes/2025_03_10_Lecture15.pdf) | | |
-| 9 | 16 | [Transfer Functions](Lectures%20Notes/2025_03_12_Lecture16.pdf) | HW07 (Written & Julia) | HW06 (Written & Julia) |
-| 10 | 17 | [Feedback Control Systems I](Lectures%20Notes/2025_03_17_Lecture17.pdf) | Quiz 04 | |
-| 10 | 18 | [Feedback Control Systems II](Lectures%20Notes/2025_03_19_Lecture18.pdf) | HW08 (Written & Julia) | HW07 (Written & Julia) |
-| 11 | 19 | [SISO Control Design](Lectures%20Notes/2025_03_24_Lecture19.pdf) | | |
-| 11 | 20 | [Advanced Control Topics](Lectures%20Notes/2025_03_26_Lecture20.pdf) | | **Project 2 DUE** |
-| 12 | 21 | [Integration Review](Lectures%20Notes/2025_03_31_Lecture21.pdf) | Project 3, Quiz 05 | Quiz 04 |
-| 12 | 22 | [Differentiation Review](Lectures%20Notes/2025_04_02_Lecture22.pdf) | | |
-| 13 | 23 | [ODE Review](Lectures%20Notes/2025_04_07_Lecture23.pdf) | | |
-| 13 | 24 | [Final Topics](Lectures%20Notes/2025_04_09_Lecture24.pdf) | | **HW08 DUE** (Cannot be dropped) |
-| 14 | 25 | [Course Wrap-up](Lectures%20Notes/2025_04_14_Lecture25Handout.pdf) | | Quiz 05 |
-| 17 | | **Final Exam** | | **Project 3 DUE** |
+| Lecture | Topic | YouTube | Assignments Released | Assignments Due |
+|---------|-------|---------|---------------------|-----------------|
+| 01 | [Pre-calculus: Notation, Functions, and Various Algebraic Facts](Lectures%20Notes/2025_01_08_Lecture01.pdf) | Video | | |
+| 02 | [Calculus Foundations: Proofs, Finite Sums, Limits](Lectures%20Notes/2025_01_13_Lecture02.pdf) | Video | [HW01](Homework/HW01Written.pdf) | |
+| 03 | [Definite Integration as Signed Area Under a Curve](Lectures%20Notes/2025_01_15_Lecture03.pdf) | Video | [HW02](Homework/HW02written.pdf) | [HW01](Homework/HW01Written.pdf) |
+| 04 | [Properties of Functions: Limits and Continuity](Lectures%20Notes/2025_01_22_Lecture04.pdf) | Video | | |
+| 05 | [Differentiation](Lectures%20Notes/2025_01_27_Lecture05.pdf) | Video | [HW03](Homework/HW03written.pdf), [Project 1](Projects/ROB201_Projects.pdf) | [HW02](Homework/HW02written.pdf) |
+| 06 | [Engineering Applications of the Derivative](Lectures%20Notes/2025_01_29_Lecture06.pdf) | Video | | |
+| 07 | [Antiderivatives and Fundamental Theorems](Lectures%20Notes/2025_02_03_Lecture07.pdf) | Video | [HW04](Homework/HW04written.pdf) | [HW03](Homework/HW03written.pdf) |
+| 08 | [Improper Integrals](Lectures%20Notes/2025_02_05_Lecture08.pdf) | Video | | |
+| 09 | [Ordinary Differential Equations I](Lectures%20Notes/2025_02_10_Lecture09.pdf) | Video | | [Project 1](Projects/ROB201_Projects.pdf) DUE |
+| 10 | [Ordinary Differential Equations II](Lectures%20Notes/2025_02_12_Lecture10.pdf) | Video | | |
+| 11 | [Linear Systems of ODEs](Lectures%20Notes/2025_02_17_Lecture11.pdf) | Video | [HW05](Homework/HW05written.pdf) | [HW04](Homework/HW04written.pdf) |
+| 12 | [Matrix Exponentials](Lectures%20Notes/2025_02_19_Lecture12.pdf) | Video | | |
+| 13 | [Stability Analysis](Lectures%20Notes/2025_02_24_Lecture13.pdf) | Video | [HW06](Homework/HW06written.pdf) | [HW05](Homework/HW05written.pdf) |
+| 14 | [Laplace Transforms I](Lectures%20Notes/2025_02_26_Lecture14.pdf) | Video | [Project 2](Projects/ROB201_Projects.pdf) | |
+| 15 | [Laplace Transforms II](Lectures%20Notes/2025_03_10_Lecture15.pdf) | Video | | |
+| 16 | [Transfer Functions](Lectures%20Notes/2025_03_12_Lecture16.pdf) | Video | [HW07](Homework/HW07written.pdf) | [HW06](Homework/HW06written.pdf) |
+| 17 | [Feedback Control Systems I](Lectures%20Notes/2025_03_17_Lecture17.pdf) | Video | | |
+| 18 | [Feedback Control Systems II](Lectures%20Notes/2025_03_19_Lecture18.pdf) | Video | [HW08](Homework/HW08written.pdf) | [HW07](Homework/HW07written.pdf) |
+| 19 | [SISO Control Design](Lectures%20Notes/2025_03_24_Lecture19.pdf) | Video | | |
+| 20 | [Advanced Control Topics](Lectures%20Notes/2025_03_26_Lecture20.pdf) | Video | | [Project 2](Projects/ROB201_Projects.pdf) DUE |
+| 21 | [Integration Review](Lectures%20Notes/2025_03_31_Lecture21.pdf) | Video | [Project 3](Projects/ROB201_Projects.pdf) | |
+| 22 | [Differentiation Review](Lectures%20Notes/2025_04_02_Lecture22.pdf) | Video | | |
+| 23 | [ODE Review](Lectures%20Notes/2025_04_07_Lecture23.pdf) | Video | | |
+| 24 | [Final Topics](Lectures%20Notes/2025_04_09_Lecture24.pdf) | Video | | [HW08](Homework/HW08written.pdf) DUE |
+| 25 | [Course Wrap-up](Lectures%20Notes/2025_04_14_Lecture25Handout.pdf) | Video | | |
+| | Final Exam | | | [Project 3](Projects/ROB201_Projects.pdf) DUE |
 
 ### Homework Assignments
 The course includes 8 homework sets, each containing both written problems and Julia programming exercises:
