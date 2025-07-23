@@ -40,7 +40,7 @@ The following schedule shows lectures, assignments, and due dates:
 | 06 | [Engineering Applications of the Derivative](Lectures%20Notes/2025_01_29_Lecture06.pdf) | Video | |
 | 07 | [Antiderivatives and Fundamental Theorems](Lectures%20Notes/2025_02_03_Lecture07.pdf) | Video | [HW03](Homework/HW03written.pdf) |
 | 08 | [Improper Integrals](Lectures%20Notes/2025_02_05_Lecture08.pdf) | Video | |
-| 09 | [Ordinary Differential Equations I](Lectures%20Notes/2025_02_10_Lecture09.pdf) | Video | [Project 1](Projects/ROB201_Projects.pdf) DUE |
+| 09 | [Ordinary Differential Equations I](Lectures%20Notes/2025_02_10_Lecture09.pdf) | Video | [Project 1](Projects/ROB201_Projects.pdf) |
 | 10 | [Ordinary Differential Equations II](Lectures%20Notes/2025_02_12_Lecture10.pdf) | Video | |
 | 11 | [Linear Systems of ODEs](Lectures%20Notes/2025_02_17_Lecture11.pdf) | Video | [HW04](Homework/HW04written.pdf) |
 | 12 | [Matrix Exponentials](Lectures%20Notes/2025_02_19_Lecture12.pdf) | Video | |
@@ -51,13 +51,13 @@ The following schedule shows lectures, assignments, and due dates:
 | 17 | [Feedback Control Systems I](Lectures%20Notes/2025_03_17_Lecture17.pdf) | Video | |
 | 18 | [Feedback Control Systems II](Lectures%20Notes/2025_03_19_Lecture18.pdf) | Video | [HW07](Homework/HW07written.pdf) |
 | 19 | [SISO Control Design](Lectures%20Notes/2025_03_24_Lecture19.pdf) | Video | |
-| 20 | [Advanced Control Topics](Lectures%20Notes/2025_03_26_Lecture20.pdf) | Video | [Project 2](Projects/ROB201_Projects.pdf) DUE |
+| 20 | [Advanced Control Topics](Lectures%20Notes/2025_03_26_Lecture20.pdf) | Video | [Project 2](Projects/ROB201_Projects.pdf) |
 | 21 | [Integration Review](Lectures%20Notes/2025_03_31_Lecture21.pdf) | Video | |
 | 22 | [Differentiation Review](Lectures%20Notes/2025_04_02_Lecture22.pdf) | Video | |
 | 23 | [ODE Review](Lectures%20Notes/2025_04_07_Lecture23.pdf) | Video | |
-| 24 | [Final Topics](Lectures%20Notes/2025_04_09_Lecture24.pdf) | Video | [HW08](Homework/HW08written.pdf) DUE |
+| 24 | [Final Topics](Lectures%20Notes/2025_04_09_Lecture24.pdf) | Video | [HW08](Homework/HW08written.pdf) |
 | 25 | [Course Wrap-up](Lectures%20Notes/2025_04_14_Lecture25Handout.pdf) | Video | |
-| | Final Exam | | [Project 3](Projects/ROB201_Projects.pdf) DUE |
+| | Final Exam | | [Project 3](Projects/ROB201_Projects.pdf) |
 
 ### Homework Assignments
 The course includes 8 homework sets, each containing both written problems and Julia programming exercises:
