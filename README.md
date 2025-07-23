@@ -9,10 +9,10 @@ ROB 201 is an innovative approach to teaching calculus that integrates mathemati
 **Department:** Robotics, University of Michigan, Ann Arbor  
 **Semester:** Winter 2025
 
-### 📄 Related Publication
+### Related Publication
 - [**"Calculus for the Modern Engineer: An Open-Source Approach Integrating Julia Programming"**](https://arxiv.org/abs/2501.10406) - ArXiv preprint describing the pedagogical approach and course design
 
-### 📊 Teaching Evaluations
+### Teaching Evaluations
 - [**Student Teaching Evaluations**](https://docs.google.com/document/d/1SdYeP6k9QgV8TzKaSmZOFa7y1Gm02Q0UVNfujtKZFtI/edit?tab=t.0#heading=h.p19cm3r45vet) - Student feedback and course assessment results
 
 ## Course Philosophy
@@ -21,13 +21,13 @@ This course recognizes that modern engineering requires both mathematical unders
 
 ## Course Materials
 
-### 📚 Textbook
+### Textbook
 - [ROB_201_Calculus_Textbook_2025April13.pdf](Textbook/ROB_201_Calculus_Textbook_2025April13.pdf)
 
-### 📋 Course Information
+### Course Information
 - [Course Syllabus](ROB_201_SyllabusW2025.pdf)
 
-### 📖 Lecture Notes
+### Lecture Notes
 All lecture materials are organized chronologically and cover the complete course curriculum:
 
 | Lecture | Date | Topic |
@@ -58,7 +58,7 @@ All lecture materials are organized chronologically and cover the complete cours
 | 24 | 2025-04-09 | [Final Topics](Lectures%20Notes/2025_04_09_Lecture24.pdf) |
 | 25 | 2025-04-14 | [Course Wrap-up](Lectures%20Notes/2025_04_14_Lecture25Handout.pdf) |
 
-### 📝 Homework Assignments
+### Homework Assignments
 The course includes 8 homework sets, each containing both written problems and Julia programming exercises:
 
 - [HW01: Pre-calculus and Approximation Principle](Homework/HW01Written.pdf) | [Solution](Homework/Solutions/HW01written.pdf)
@@ -70,7 +70,7 @@ The course includes 8 homework sets, each containing both written problems and J
 - [HW07: Antiderivatives and ODEs](Homework/HW07written.pdf) | [Solution](Homework/Solutions/HW07written.pdf)
 - [HW08: Laplace Transforms and Control](Homework/HW08written.pdf) | [Solution](Homework/Solutions/HW08written.pdf)
 
-### 🔬 Projects
+### Projects
 The course features three major individual projects that apply calculus concepts to real engineering problems:
 
 - [**Project Overview**](Projects/ROB201_Projects.pdf) - General descriptions of all three projects
