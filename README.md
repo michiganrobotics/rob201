@@ -27,36 +27,37 @@ This course recognizes that modern engineering requires both mathematical unders
 ### Course Information
 - [Course Syllabus](ROB_201_SyllabusW2025.pdf)
 
-### Lecture Notes
-All lecture materials are organized chronologically and cover the complete course curriculum:
+### Course Schedule
+The following schedule shows lectures, assignments, and due dates:
 
-| Lecture | Date | Topic |
-|---------|------|-------|
-| 01 | 2025-01-08 | [Pre-calculus: Notation, Functions, and Various Algebraic Facts](Lectures%20Notes/2025_01_08_Lecture01.pdf) |
-| 02 | 2025-01-13 | [Calculus Foundations: Proofs, Finite Sums, Limits](](Lectures%20Notes/2025_01_13_Lecture02.pdf) |
-| 03 | 2025-01-15 | [Definite Integration as Signed Area Under a Curve](Lectures%20Notes/2025_01_15_Lecture03.pdf) |
-| 04 | 2025-01-22 | [Properties of Functions: Limits and Continuity](Lectures%20Notes/2025_01_22_Lecture04.pdf) |
-| 05 | 2025-01-27 | [Differentiation](Lectures%20Notes/2025_01_27_Lecture05.pdf) |
-| 06 | 2025-01-29 | [Engineering Applications of the Derivative](Lectures%20Notes/2025_01_29_Lecture06.pdf) |
-| 07 | 2025-02-03 | [Antiderivatives and Fundamental Theorems](Lectures%20Notes/2025_02_03_Lecture07.pdf) |
-| 08 | 2025-02-05 | [Improper Integrals](Lectures%20Notes/2025_02_05_Lecture08.pdf) |
-| 09 | 2025-02-10 | [Ordinary Differential Equations I](Lectures%20Notes/2025_02_10_Lecture09.pdf) |
-| 10 | 2025-02-12 | [Ordinary Differential Equations II](Lectures%20Notes/2025_02_12_Lecture10.pdf) |
-| 11 | 2025-02-17 | [Linear Systems of ODEs](Lectures%20Notes/2025_02_17_Lecture11.pdf) |
-| 12 | 2025-02-19 | [Matrix Exponentials](Lectures%20Notes/2025_02_19_Lecture12.pdf) |
-| 13 | 2025-02-24 | [Stability Analysis](Lectures%20Notes/2025_02_24_Lecture13.pdf) |
-| 14 | 2025-02-26 | [Laplace Transforms I](Lectures%20Notes/2025_02_26_Lecture14.pdf) |
-| 15 | 2025-03-10 | [Laplace Transforms II](Lectures%20Notes/2025_03_10_Lecture15.pdf) |
-| 16 | 2025-03-12 | [Transfer Functions](Lectures%20Notes/2025_03_12_Lecture16.pdf) |
-| 17 | 2025-03-17 | [Feedback Control Systems I](Lectures%20Notes/2025_03_17_Lecture17.pdf) |
-| 18 | 2025-03-19 | [Feedback Control Systems II](Lectures%20Notes/2025_03_19_Lecture18.pdf) |
-| 19 | 2025-03-24 | [SISO Control Design](Lectures%20Notes/2025_03_24_Lecture19.pdf) |
-| 20 | 2025-03-26 | [Advanced Control Topics](Lectures%20Notes/2025_03_26_Lecture20.pdf) |
-| 21 | 2025-03-31 | [Integration Review](Lectures%20Notes/2025_03_31_Lecture21.pdf) |
-| 22 | 2025-04-02 | [Differentiation Review](Lectures%20Notes/2025_04_02_Lecture22.pdf) |
-| 23 | 2025-04-07 | [ODE Review](Lectures%20Notes/2025_04_07_Lecture23.pdf) |
-| 24 | 2025-04-09 | [Final Topics](Lectures%20Notes/2025_04_09_Lecture24.pdf) |
-| 25 | 2025-04-14 | [Course Wrap-up](Lectures%20Notes/2025_04_14_Lecture25Handout.pdf) |
+| Week | Lecture | Topic | Assignments Released | Assignments Due |
+|------|---------|-------|---------------------|-----------------|
+| 1 | 01 | [Pre-calculus: Notation, Functions, and Various Algebraic Facts](Lectures%20Notes/2025_01_08_Lecture01.pdf) | Quiz 01 | |
+| 1 | 02 | [Calculus Foundations: Proofs, Finite Sums, Limits](Lectures%20Notes/2025_01_13_Lecture02.pdf) | HW01 (Written & Julia) | |
+| 2 | 03 | [Definite Integration as Signed Area Under a Curve](Lectures%20Notes/2025_01_15_Lecture03.pdf) | HW02 (Written & Julia) | HW01 (Written & Julia) |
+| 3 | 04 | [Properties of Functions: Limits and Continuity](Lectures%20Notes/2025_01_22_Lecture04.pdf) | Quiz 02 | |
+| 3 | 05 | [Differentiation](Lectures%20Notes/2025_01_27_Lecture05.pdf) | HW03 (Written & Julia), Project 1 | HW02 (Written & Julia), Quiz 01 |
+| 4 | 06 | [Engineering Applications of the Derivative](Lectures%20Notes/2025_01_29_Lecture06.pdf) | | Quiz 02 |
+| 4 | 07 | [Antiderivatives and Fundamental Theorems](Lectures%20Notes/2025_02_03_Lecture07.pdf) | HW04 (Written & Julia) | HW03 (Written & Julia) |
+| 5 | 08 | [Improper Integrals](Lectures%20Notes/2025_02_05_Lecture08.pdf) | | |
+| 5 | 09 | [Ordinary Differential Equations I](Lectures%20Notes/2025_02_10_Lecture09.pdf) | | **Project 1 DUE** |
+| 6 | 10 | [Ordinary Differential Equations II](Lectures%20Notes/2025_02_12_Lecture10.pdf) | Quiz 03 | |
+| 6 | 11 | [Linear Systems of ODEs](Lectures%20Notes/2025_02_17_Lecture11.pdf) | HW05 (Written & Julia) | HW04 (Written & Julia) |
+| 7 | 12 | [Matrix Exponentials](Lectures%20Notes/2025_02_19_Lecture12.pdf) | | Quiz 03 |
+| 7 | 13 | [Stability Analysis](Lectures%20Notes/2025_02_24_Lecture13.pdf) | HW06 (Written & Julia) | HW05 (Written & Julia) |
+| 8 | 14 | [Laplace Transforms I](Lectures%20Notes/2025_02_26_Lecture14.pdf) | Project 2 | |
+| 9 | 15 | [Laplace Transforms II](Lectures%20Notes/2025_03_10_Lecture15.pdf) | | |
+| 9 | 16 | [Transfer Functions](Lectures%20Notes/2025_03_12_Lecture16.pdf) | HW07 (Written & Julia) | HW06 (Written & Julia) |
+| 10 | 17 | [Feedback Control Systems I](Lectures%20Notes/2025_03_17_Lecture17.pdf) | Quiz 04 | |
+| 10 | 18 | [Feedback Control Systems II](Lectures%20Notes/2025_03_19_Lecture18.pdf) | HW08 (Written & Julia) | HW07 (Written & Julia) |
+| 11 | 19 | [SISO Control Design](Lectures%20Notes/2025_03_24_Lecture19.pdf) | | |
+| 11 | 20 | [Advanced Control Topics](Lectures%20Notes/2025_03_26_Lecture20.pdf) | | **Project 2 DUE** |
+| 12 | 21 | [Integration Review](Lectures%20Notes/2025_03_31_Lecture21.pdf) | Project 3, Quiz 05 | Quiz 04 |
+| 12 | 22 | [Differentiation Review](Lectures%20Notes/2025_04_02_Lecture22.pdf) | | |
+| 13 | 23 | [ODE Review](Lectures%20Notes/2025_04_07_Lecture23.pdf) | | |
+| 13 | 24 | [Final Topics](Lectures%20Notes/2025_04_09_Lecture24.pdf) | | **HW08 DUE** (Cannot be dropped) |
+| 14 | 25 | [Course Wrap-up](Lectures%20Notes/2025_04_14_Lecture25Handout.pdf) | | Quiz 05 |
+| 17 | | **Final Exam** | | **Project 3 DUE** |
 
 ### Homework Assignments
 The course includes 8 homework sets, each containing both written problems and Julia programming exercises:
