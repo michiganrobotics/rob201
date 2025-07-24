@@ -32,31 +32,33 @@ The following schedule shows lectures, assignments, and due dates:
 
 | Lecture | Topic | YouTube | Assignments Due |
 |---------|-------|---------|-----------------|
-| 01 | [Pre-calculus: Notation, Functions, and Various Algebraic Facts](Lectures%20Notes/2025_01_08_Lecture01.pdf) | Video | |
-| 02 | [Calculus Foundations: Proofs, Finite Sums, Limits](Lectures%20Notes/2025_01_13_Lecture02.pdf) | Video | |
-| 03 | [Definite Integration as Signed Area Under a Curve](Lectures%20Notes/2025_01_15_Lecture03.pdf) | Video | [HW01](Homework/HW01Written.pdf) |
-| 04 | [Properties of Functions: Limits and Continuity](Lectures%20Notes/2025_01_22_Lecture04.pdf) | Video | |
-| 05 | [Differentiation](Lectures%20Notes/2025_01_27_Lecture05.pdf) | Video | [HW02](Homework/HW02written.pdf) |
-| 06 | [Engineering Applications of the Derivative](Lectures%20Notes/2025_01_29_Lecture06.pdf) | Video | |
-| 07 | [Antiderivatives and Fundamental Theorems](Lectures%20Notes/2025_02_03_Lecture07.pdf) | Video | [HW03](Homework/HW03written.pdf) |
-| 08 | [Improper Integrals](Lectures%20Notes/2025_02_05_Lecture08.pdf) | Video | |
-| 09 | [Ordinary Differential Equations I](Lectures%20Notes/2025_02_10_Lecture09.pdf) | Video | [Project 1](#projects) |
-| 10 | [Ordinary Differential Equations II](Lectures%20Notes/2025_02_12_Lecture10.pdf) | Video | |
-| 11 | [Linear Systems of ODEs](Lectures%20Notes/2025_02_17_Lecture11.pdf) | Video | [HW04](Homework/HW04written.pdf) |
-| 12 | [Matrix Exponentials](Lectures%20Notes/2025_02_19_Lecture12.pdf) | Video | |
-| 13 | [Stability Analysis](Lectures%20Notes/2025_02_24_Lecture13.pdf) | Video | [HW05](Homework/HW05written.pdf) |
-| 14 | [Laplace Transforms I](Lectures%20Notes/2025_02_26_Lecture14.pdf) | Video | |
-| 15 | [Laplace Transforms II](Lectures%20Notes/2025_03_10_Lecture15.pdf) | Video | |
-| 16 | [Transfer Functions](Lectures%20Notes/2025_03_12_Lecture16.pdf) | Video | [HW06](Homework/HW06written.pdf) |
-| 17 | [Feedback Control Systems I](Lectures%20Notes/2025_03_17_Lecture17.pdf) | Video | |
-| 18 | [Feedback Control Systems II](Lectures%20Notes/2025_03_19_Lecture18.pdf) | Video | [HW07](Homework/HW07written.pdf) |
-| 19 | [SISO Control Design](Lectures%20Notes/2025_03_24_Lecture19.pdf) | Video | |
-| 20 | [Advanced Control Topics](Lectures%20Notes/2025_03_26_Lecture20.pdf) | Video | [Project 2](#projects) |
-| 21 | [Integration Review](Lectures%20Notes/2025_03_31_Lecture21.pdf) | Video | |
-| 22 | [Differentiation Review](Lectures%20Notes/2025_04_02_Lecture22.pdf) | Video | |
-| 23 | [ODE Review](Lectures%20Notes/2025_04_07_Lecture23.pdf) | Video | |
-| 24 | [Final Topics](Lectures%20Notes/2025_04_09_Lecture24.pdf) | Video | [HW08](Homework/HW08written.pdf) |
-| 25 | [Course Wrap-up](Lectures%20Notes/2025_04_14_Lecture25Handout.pdf) | Video | |
+| 01 | [[insert title]](Lectures%20Notes/Lecture01.pdf) | Video | |
+| 02 | [[insert title]](Lectures%20Notes/Lecture02.pdf) | Video | |
+| 03 | [[insert title]](Lectures%20Notes/Lecture03.pdf) | Video | [HW01](Homework/HW01Written.pdf) |
+| 04 | [[insert title]](Lectures%20Notes/Lecture04.pdf) | Video | |
+| 05 | [[insert title]](Lectures%20Notes/Lecture05.pdf) | Video | [HW02](Homework/HW02written.pdf) |
+| 06 | [[insert title]](Lectures%20Notes/Lecture06.pdf) | Video | |
+| 07 | [[insert title]](Lectures%20Notes/Lecture07.pdf) | Video | [HW03](Homework/HW03written.pdf) |
+| 08 | [[insert title]](Lectures%20Notes/Lecture08.pdf) | Video | |
+| 09 | [[insert title]](Lectures%20Notes/Lecture09.pdf) | Video | [Project 1](#projects) |
+| 10 | [[insert title]](Lectures%20Notes/Lecture10.pdf) | Video | |
+| 11 | [[insert title]](Lectures%20Notes/Lecture11.pdf) | Video | [HW04](Homework/HW04written.pdf) |
+| 12 | [[insert title]](Lectures%20Notes/Lecture12.pdf) | Video | |
+| 13 | [[insert title]](Lectures%20Notes/Lecture13.pdf) | Video | [HW05](Homework/HW05written.pdf) |
+| 14 | [[insert title]](Lectures%20Notes/Lecture14.pdf) | Video | |
+| 15 | [[insert title]](Lectures%20Notes/Lecture15.pdf) | Video | |
+| 16 | [[insert title]](Lectures%20Notes/Lecture16.pdf) | Video | [HW06](Homework/HW06written.pdf) |
+| 17 | [[insert title]](Lectures%20Notes/Lecture17.pdf) | Video | |
+| 18 | [[insert title]](Lectures%20Notes/Lecture18.pdf) | Video | [HW07](Homework/HW07written.pdf) |
+| 19 | [[insert title]](Lectures%20Notes/Lecture19.pdf) | Video | |
+| 20 | [[insert title]](Lectures%20Notes/Lecture20.pdf) | Video | [Project 2](#projects) |
+| 21 | [[insert title]](Lectures%20Notes/Lecture21.pdf) | Video | |
+| 22 | [[insert title]](Lectures%20Notes/Lecture22.pdf) | Video | |
+| 23 | [[insert title]](Lectures%20Notes/Lecture23.pdf) | Video | |
+| 24 | [[insert title]](Lectures%20Notes/Lecture24.pdf) | Video | [HW08](Homework/HW08written.pdf) |
+| 25 | [[insert title]](Lectures%20Notes/Lecture25.pdf) | Video | |
+| 26 | [insert title] | Video | |
+| 27 | [insert title] | Video | |
 | | Final Exam | | [Project 3](#projects) |
 
 ### Homework Assignments
