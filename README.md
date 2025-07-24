@@ -1,5 +1,5 @@
 # ROB 201: Calculus for the Modern Engineer
-*University of Michigan Robotics Department*
+[*University of Michigan Robotics Department*](https://robotics.umich.edu)
 
 ## Course overview
 
