@@ -128,6 +128,6 @@ By completing this course, students will:
 - Basic programming experience helpful but not required
 - Willingness to learn Julia programming language
 
----
+## Credits
 
-*This course represents a modern approach to calculus education, preparing students for the computational demands of contemporary engineering practice.*
+Special thanks to the undergraduate Instructional Assistants who collaborated in Winter and Summer 2024: Kaylee Johnson (lead), Advaith (Adi) Balaji, Madeline (Maddy) Bezzina, Justin Boverhof, Elaina Mann, Reina Mezher, and Maxwell (Max) West. They worked diligently to create homework sets, projects, and refine the initial draft of the textbook.
