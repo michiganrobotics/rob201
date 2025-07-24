@@ -1,7 +1,7 @@
 # ROB 201: Calculus for the Modern Engineer
 *University of Michigan Robotics Department*
 
-## Course Overview
+## Course overview
 
 ROB 201 is an innovative approach to teaching calculus that integrates mathematical theory with computational tools and real-world engineering applications. This course breaks away from traditional calculus education by emphasizing the practical application of mathematical concepts through programming and numerical methods using Julia.
 
@@ -9,25 +9,19 @@ ROB 201 is an innovative approach to teaching calculus that integrates mathemati
 **Department:** Robotics, University of Michigan, Ann Arbor  
 **Semester:** Winter 2025
 
-### Related Publication
-- [**"Calculus for the Modern Engineer: An Open-Source Approach Integrating Julia Programming"**](https://arxiv.org/abs/2501.10406) - ArXiv preprint describing the pedagogical approach and course design
-
-### Teaching Evaluations
-- [**Student Teaching Evaluations**](https://docs.google.com/document/d/1SdYeP6k9QgV8TzKaSmZOFa7y1Gm02Q0UVNfujtKZFtI/edit?tab=t.0#heading=h.p19cm3r45vet) - Student feedback and course assessment results
-
-## Course Philosophy
+## Philosophy
 
 This course recognizes that modern engineering requires both mathematical understanding and computational proficiency. Rather than treating calculus as an abstract mathematical exercise, ROB 201 demonstrates how calculus serves as the foundation for solving complex engineering problems, particularly in robotics and control systems.
 
-## Course Materials
+## Course materials
 
 ### Textbook
 - [ROB_201_Calculus_Textbook_2025April13.pdf](Textbook/ROB_201_Calculus_Textbook_2025April13.pdf)
 
-### Course Information
+### Course information
 - [Course Syllabus](ROB_201_SyllabusW2025.pdf)
 
-### Course Schedule
+### Course schedule
 The following schedule shows lectures, assignments, and due dates:
 
 | Lecture | Topic (notes linked) | YouTube | Assignments Due |
@@ -61,7 +55,7 @@ The following schedule shows lectures, assignments, and due dates:
 | 27 | [insert title] | Video | |
 | | Final Exam | | [Project 3](#projects) |
 
-### Homework Assignments
+### Homework assignments
 The course includes 8 homework sets, each containing both written problems and Julia programming exercises:
 
 - [HW01: Pre-calculus and Approximation Principle](Homework/HW01Written.pdf) | [Solution](Homework/Solutions/HW01written.pdf)
@@ -76,13 +70,13 @@ The course includes 8 homework sets, each containing both written problems and J
 ### Projects
 The course features three major individual projects that apply calculus concepts to real engineering problems:
 
-- [**Project Overview**](Projects/ROB201_Projects.pdf) - General descriptions of all three projects
+- [**Projects overview**](Projects/ROB201_Projects.pdf) - General descriptions of all three projects
 
-**Note for Faculty:** Complete project files with detailed specifications, starter code, and solutions are available upon request. Please contact the University of Michigan Robotics Department for access to full project materials, as new versions for future iterations cannot be created at this time.
+**Note for faculty:** Complete project files with detailed specifications, starter code, and solutions are available upon request. Please contact the University of Michigan Robotics Department for access to full project materials, as new versions for future iterations cannot be created at this time.
 
-## Course Structure
+## Course structure
 
-### Major Topics Covered
+### Major topics covered
 
 1. **Pre-calculus Foundations** - Mathematical notation, functions, and the Approximation Principle
 2. **Calculus Foundations** - Proofs, limits, and geometric sums
@@ -95,18 +89,7 @@ The course features three major individual projects that apply calculus concepts
 9. **Ordinary Differential Equations** - First-order and linear systems
 10. **Laplace Transforms** - Control theory and feedback systems
 
-### Assessment
-
-- **10%** Final Exam
-- **20%** Homework (8 sets with written and Julia components)
-- **20%** Quizzes (5 individual quizzes)
-- **8%** Course Participation
-- **42%** Projects (3 major individual projects):
-  - **Numerical Integration** (17%) - IMU data processing for drone navigation
-  - **Gradient Descent with Constraints** (17%) - Ballistic trajectories and gymnastic maneuvers
-  - **BallBot Control** (8%) - Feedback control system design
-
-## Key Learning Outcomes
+## Expected outcomes
 
 By completing this course, students will:
 
@@ -117,18 +100,19 @@ By completing this course, students will:
 - Gain experience with Julia programming for mathematical computation
 - Design and analyze feedback control systems
 
-## Unique Features
+## Unique features
 
-- **Computational Integration**: Heavy use of Julia programming throughout
-- **Engineering Focus**: Real-world applications in robotics and control
-- **Project-Based Learning**: Substantial individual projects with practical applications
-- **Modern Approach**: Emphasis on numerical methods and computational thinking
+- **Computational integration**: Heavy use of Julia programming throughout
+- **Engineering focus**: Real-world applications in robotics and control
+- **Project-based learning**: Substantial individual projects with practical applications
+- **Modern approach**: Emphasis on numerical methods and computational thinking
 
-## Prerequisites
+## Teaching evaluations
+- [**Student Teaching Evaluations**](https://docs.google.com/document/d/1SdYeP6k9QgV8TzKaSmZOFa7y1Gm02Q0UVNfujtKZFtI/edit?tab=t.0#heading=h.p19cm3r45vet) - Student feedback and course assessment results
 
-- Strong foundation in algebra and trigonometry
-- Basic programming experience helpful but not required
-- Willingness to learn Julia programming language
+## Related
+- [**"Calculus for the Modern Engineer: An Open-Source Approach Integrating Julia Programming"**](https://arxiv.org/abs/2501.10406) - ArXiv preprint describing the pedagogical approach and course design
+- [**Michigan Robotics**](https://robotics.umich.edu) - The Robotics Department at the University of Michigan
 
 ## Credits
 
