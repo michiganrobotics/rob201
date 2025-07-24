@@ -30,7 +30,7 @@ This course recognizes that modern engineering requires both mathematical unders
 ### Course Schedule
 The following schedule shows lectures, assignments, and due dates:
 
-| Lecture | Topic | YouTube | Assignments Due |
+| Lecture | Topic (notes linked) | YouTube | Assignments Due |
 |---------|-------|---------|-----------------|
 | 01 | [[insert title]](Lectures%20Notes/Lecture01.pdf) | Video | |
 | 02 | [[insert title]](Lectures%20Notes/Lecture02.pdf) | Video | |
