@@ -52,8 +52,7 @@ The following schedule shows lectures, assignments, and due dates:
 | 24 | Controller Design and System Response | [Notes](Lectures%20Notes/Lecture24.pdf) | 10 | Video | [HW08](Homework/HW08written.pdf) |
 | 25 | Advanced Control and Linearization | [Notes](Lectures%20Notes/Lecture25.pdf) | 10 | Video | |
 | 26 | Bonus: Fourier Series | [Notes](Lectures%20Notes/Lecture26.pdf) | - | Video | |
-| 27 | Final Exam Review | [Notes](Lectures%20Notes/Lecture27.pdf) | - | Video | |
-| | Final Exam | | [Project 3](#projects) |
+| 27 | Final Exam Review | [Notes](Lectures%20Notes/Lecture27.pdf) | - | Video | [Project 3](#projects) |
 
 ### Homework assignments
 The course includes 8 homework sets, each containing both written problems and Julia programming exercises:
