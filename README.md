@@ -51,8 +51,8 @@ The following schedule shows lectures, assignments, and due dates:
 | 23 | [[insert title]](Lectures%20Notes/Lecture23.pdf) | Video | |
 | 24 | [[insert title]](Lectures%20Notes/Lecture24.pdf) | Video | [HW08](Homework/HW08written.pdf) |
 | 25 | [[insert title]](Lectures%20Notes/Lecture25.pdf) | Video | |
-| 26 | [insert title] | Video | |
-| 27 | [insert title] | Video | |
+| 26 | [[insert title]](Lectures%20Notes/Lecture26.pdf) | Video | |
+| 27 | [[insert title]](Lectures%20Notes/Lecture27.pdf) | Video | |
 | | Final Exam | | [Project 3](#projects) |
 
 ### Homework assignments
