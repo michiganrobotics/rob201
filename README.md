@@ -24,35 +24,35 @@ This course recognizes that modern engineering requires both mathematical unders
 ### Course schedule
 The following schedule shows lectures, assignments, and due dates:
 
-| Lecture | Chapter | Topic (notes linked) | YouTube | Assignments Due |
-|---------|---------|-------|---------|-----------------|
-| 01 | 1-2 | [Pre-Calculus and Calculus Foundations](Lectures%20Notes/Lecture01.pdf) | Video | |
-| 02 | 2 | [Limits at Infinity and Real Numbers](Lectures%20Notes/Lecture02.pdf) | Video | |
-| 03 | 2 | [Algebra of Limits and Geometric Sums](Lectures%20Notes/Lecture03.pdf) | Video | [HW01](Homework/HW01Written.pdf) |
-| 04 | 3 | [Definite Integration and Riemann Sums](Lectures%20Notes/Lecture04.pdf) | Video | |
-| 05 | 3 | [Area Between Functions and Simpson's Rule](Lectures%20Notes/Lecture05.pdf) | Video | [HW02](Homework/HW02written.pdf) |
-| 06 | 3-4 | [Center of Mass and Function Properties](Lectures%20Notes/Lecture06.pdf) | Video | |
-| 07 | 4 | [Limits and Continuity](Lectures%20Notes/Lecture07.pdf) | Video | [HW03](Homework/HW03written.pdf) |
-| 08 | 4 | [Advanced Limits and Function Analysis](Lectures%20Notes/Lecture08.pdf) | Video | |
-| 09 | 5 | [Introduction to Differentiation](Lectures%20Notes/Lecture09.pdf) | Video | [Project 1](#projects) |
-| 10 | 5 | [Advanced Differentiation and Taylor Series](Lectures%20Notes/Lecture10.pdf) | Video | |
-| 11 | 5-6 | [Multivariable Calculus and Arc Length](Lectures%20Notes/Lecture11.pdf) | Video | [HW04](Homework/HW04written.pdf) |
-| 12 | 6 | [Root Finding and Optimization](Lectures%20Notes/Lecture12.pdf) | Video | |
-| 13 | 6 | [Constrained Optimization and Lagrangian Dynamics](Lectures%20Notes/Lecture13.pdf) | Video | [HW05](Homework/HW05written.pdf) |
-| 14 | 6-7 | [Energy and Antiderivatives](Lectures%20Notes/Lecture14.pdf) | Video | |
-| 15 | 7 | [Fundamental Theorems of Calculus](Lectures%20Notes/Lecture15.pdf) | Video | |
-| 16 | 7 | [Integration Techniques](Lectures%20Notes/Lecture16.pdf) | Video | [HW06](Homework/HW06written.pdf) |
-| 17 | 8 | [Improper Integrals](Lectures%20Notes/Lecture17.pdf) | Video | |
-| 18 | 9 | [Introduction to ODEs](Lectures%20Notes/Lecture18.pdf) | Video | [HW07](Homework/HW07written.pdf) |
-| 19 | 9 | [Systems of ODEs and Matrix Exponentials](Lectures%20Notes/Lecture19.pdf) | Video | |
-| 20 | 9 | [Matrix Exponentials and Eigenvalues](Lectures%20Notes/Lecture20.pdf) | Video | [Project 2](#projects) |
-| 21 | 10 | [Introduction to Laplace Transforms](Lectures%20Notes/Lecture21.pdf) | Video | |
-| 22 | 10 | [Inverse Laplace and Transfer Functions](Lectures%20Notes/Lecture22.pdf) | Video | |
-| 23 | 10 | [Transfer Functions and Feedback Control](Lectures%20Notes/Lecture23.pdf) | Video | |
-| 24 | 10 | [Controller Design and System Response](Lectures%20Notes/Lecture24.pdf) | Video | [HW08](Homework/HW08written.pdf) |
-| 25 | 10 | [Advanced Control and Linearization](Lectures%20Notes/Lecture25.pdf) | Video | |
-| 26 | - | [Bonus: Fourier Series](Lectures%20Notes/Lecture26.pdf) | Video | |
-| 27 | - | [Final Exam Review](Lectures%20Notes/Lecture27.pdf) | Video | |
+| Lecture | Topic | Lecture Notes | Chapter | YouTube | Assignments Due |
+|---------|-------|---------------|---------|---------|-----------------|
+| 01 | Pre-Calculus and Calculus Foundations | [Notes](Lectures%20Notes/Lecture01.pdf) | 1-2 | Video | |
+| 02 | Limits at Infinity and Real Numbers | [Notes](Lectures%20Notes/Lecture02.pdf) | 2 | Video | |
+| 03 | Algebra of Limits and Geometric Sums | [Notes](Lectures%20Notes/Lecture03.pdf) | 2 | Video | [HW01](Homework/HW01Written.pdf) |
+| 04 | Definite Integration and Riemann Sums | [Notes](Lectures%20Notes/Lecture04.pdf) | 3 | Video | |
+| 05 | Area Between Functions and Simpson's Rule | [Notes](Lectures%20Notes/Lecture05.pdf) | 3 | Video | [HW02](Homework/HW02written.pdf) |
+| 06 | Center of Mass and Function Properties | [Notes](Lectures%20Notes/Lecture06.pdf) | 3-4 | Video | |
+| 07 | Limits and Continuity | [Notes](Lectures%20Notes/Lecture07.pdf) | 4 | Video | [HW03](Homework/HW03written.pdf) |
+| 08 | Advanced Limits and Function Analysis | [Notes](Lectures%20Notes/Lecture08.pdf) | 4 | Video | |
+| 09 | Introduction to Differentiation | [Notes](Lectures%20Notes/Lecture09.pdf) | 5 | Video | [Project 1](#projects) |
+| 10 | Advanced Differentiation and Taylor Series | [Notes](Lectures%20Notes/Lecture10.pdf) | 5 | Video | |
+| 11 | Multivariable Calculus and Arc Length | [Notes](Lectures%20Notes/Lecture11.pdf) | 5-6 | Video | [HW04](Homework/HW04written.pdf) |
+| 12 | Root Finding and Optimization | [Notes](Lectures%20Notes/Lecture12.pdf) | 6 | Video | |
+| 13 | Constrained Optimization and Lagrangian Dynamics | [Notes](Lectures%20Notes/Lecture13.pdf) | 6 | Video | [HW05](Homework/HW05written.pdf) |
+| 14 | Energy and Antiderivatives | [Notes](Lectures%20Notes/Lecture14.pdf) | 6-7 | Video | |
+| 15 | Fundamental Theorems of Calculus | [Notes](Lectures%20Notes/Lecture15.pdf) | 7 | Video | |
+| 16 | Integration Techniques | [Notes](Lectures%20Notes/Lecture16.pdf) | 7 | Video | [HW06](Homework/HW06written.pdf) |
+| 17 | Improper Integrals | [Notes](Lectures%20Notes/Lecture17.pdf) | 8 | Video | |
+| 18 | Introduction to ODEs | [Notes](Lectures%20Notes/Lecture18.pdf) | 9 | Video | [HW07](Homework/HW07written.pdf) |
+| 19 | Systems of ODEs and Matrix Exponentials | [Notes](Lectures%20Notes/Lecture19.pdf) | 9 | Video | |
+| 20 | Matrix Exponentials and Eigenvalues | [Notes](Lectures%20Notes/Lecture20.pdf) | 9 | Video | [Project 2](#projects) |
+| 21 | Introduction to Laplace Transforms | [Notes](Lectures%20Notes/Lecture21.pdf) | 10 | Video | |
+| 22 | Inverse Laplace and Transfer Functions | [Notes](Lectures%20Notes/Lecture22.pdf) | 10 | Video | |
+| 23 | Transfer Functions and Feedback Control | [Notes](Lectures%20Notes/Lecture23.pdf) | 10 | Video | |
+| 24 | Controller Design and System Response | [Notes](Lectures%20Notes/Lecture24.pdf) | 10 | Video | [HW08](Homework/HW08written.pdf) |
+| 25 | Advanced Control and Linearization | [Notes](Lectures%20Notes/Lecture25.pdf) | 10 | Video | |
+| 26 | Bonus: Fourier Series | [Notes](Lectures%20Notes/Lecture26.pdf) | - | Video | |
+| 27 | Final Exam Review | [Notes](Lectures%20Notes/Lecture27.pdf) | - | Video | |
 | | Final Exam | | [Project 3](#projects) |
 
 ### Homework assignments
